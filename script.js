@@ -1,23 +1,3 @@
-/*const addItems = document.getElementById("addItem");
-addItems.addEventListener("click", function () {
-    document.getElementById('inputPhone').value = parseInt(inputPhone.value) + 1;
-
-})
-const removeItems = document.getElementById("removeItem");
-removeItems.addEventListener("click", function () {
-    if (inputPhone.value > 0) { document.getElementById('inputPhone').value = parseInt(inputPhone.value) - 1 };
-})
-const addItems1 = document.getElementById("addItem2");
-addItems1.addEventListener("click", function () {
-    document.getElementById('inputCase').value = parseInt(inputCase.value) + 1;
-})
-const removeItems2 = document.getElementById("removeItem2");
-removeItems2.addEventListener("click", function () {
-    if (inputCase.value > 0) { document.getElementById('inputCase').value = parseInt(inputCase.value) - 1 };
-})  my lame codes*/
-
-
-
 // pure code starts here
 /*code used in inline
 document.getElementById('case-increase').addEventListener('click', function () {
